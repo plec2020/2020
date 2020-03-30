@@ -9,11 +9,11 @@ body {
 }
 .display-1 {
   font-family: 'Playfair Display', serif;
-  font-size: 2.6rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.16rem;
+  font-size: 2.88rem;
 }
 .display-2 {
   font-family: 'Playfair Display', serif;
@@ -25,11 +25,11 @@ body {
 }
 .display-4 {
   font-family: 'Playfair Display', serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Playfair Display', serif;
@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Playfair Display', serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -54,9 +54,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.08rem;
-    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.28rem;
@@ -64,9 +64,9 @@ body {
     line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.96rem;
@@ -530,11 +530,11 @@ a:hover {
 /* Scroll to top button*/
 .form-control {
   font-family: 'Playfair Display', serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1012,7 +1012,7 @@ section.lazy-placeholder:after {
   color: #a9a38d !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/image00001-1-2000x1045.jpg");
 }
 .cid-rUxuWF5XZi {
   padding-top: 75px;
